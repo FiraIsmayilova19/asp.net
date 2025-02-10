@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|c:\\users\\user\\desktop\\github\\asp.net\\producttask\\producttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E85A1A73-8A7F-4DA2-800F-806CEAE90B7D}|ProductTask\\ProductTask.csproj|solutionrelative:producttask\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\Products\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\Products\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T21:17:11.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\Products\\Add.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\Products\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:49:56.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProductTask\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T20:20:00.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:08:29.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProductTask\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ProductTask\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-27T20:06:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ProductTask\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:36:33.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductTask\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\GitHub\\asp.net\\ProductTask\\ProductTask\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductTask\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T19:33:29.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
