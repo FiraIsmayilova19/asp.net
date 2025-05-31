@@ -1,0 +1,6 @@
+@CI.CD.TestingTask_HostAddress = http://localhost:5075
+
+GET {{CI.CD.TestingTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
