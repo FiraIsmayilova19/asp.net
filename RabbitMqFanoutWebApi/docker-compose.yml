@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"       
+      - "15672:15672"    
+    environment:
+      RABBITMQ_DEFAULT_USER: fira
+      RABBITMQ_DEFAULT_PASS: fira1234
+    networks:
+      - rabbitmq-net
+
+  webapi:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: webapi
+    ports:
+      - "5000:80"         
+    environment:
+      - RabbitMq__Uri=amqp://fira:fira1234@rabbitmq:5672/
+    depends_on:
+      - rabbitmq
+    networks:
+      - rabbitmq-net
+
+networks:
+  rabbitmq-net:
+    driver: bridge

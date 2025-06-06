@@ -1,0 +1,6 @@
+@RabbitMqFanoutWebApi_HostAddress = http://localhost:5250
+
+GET {{RabbitMqFanoutWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
